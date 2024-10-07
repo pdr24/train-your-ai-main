@@ -1,4 +1,4 @@
-# Train Your AI
+# TrainYourSnakeAI
 
 ### Description
 
